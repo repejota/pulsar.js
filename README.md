@@ -2,4 +2,4 @@
 
 A glowing pulsar effect in canvas
 
-https://david-dm.org/repejota/pulsar.js.png
+![Dependencies Badge](https://david-dm.org/repejota/pulsar.js.png)
